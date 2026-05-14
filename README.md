@@ -102,12 +102,10 @@ const [content, setContent] = useState({ title: 'Nossa história', subtitle: '{c
               className="w-full mt-1 px-4 py-3 rounded-xl bg-zinc-900 border border-white/10 text-white"
             />
           </div>
-        </div>
-      </div>
-</>
+        </div>        )}
+  </div>
 
-) } </div>
-
+  
 <div className="min-h-screen bg-black text-white overflow-x-hidden font-sans">
   {/* HERO */}
   <section
